@@ -20,4 +20,8 @@ public class GitTest2 {
     public void test4(){
         System.out.println("github上面更新");
     }
+
+    public void test5(){
+        System.out.println("github上面更新");
+    }
 }
